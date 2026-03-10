@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/operator-vault-logo.png" alt="The Operator Vault" width="200">
+  <img src="assets/migrate-openclaw-cover.png" alt="Migrate OpenClaw to Claude Code" width="800">
 </p>
-
-<h1 align="center">Migrate OpenClaw to Claude Code</h1>
 
 <p align="center">
   A Claude Code skill that migrates your entire OpenClaw workspace into a fully functional Claude Code project.
