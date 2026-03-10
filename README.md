@@ -1,6 +1,14 @@
-# Migrate OpenClaw to Claude Code
+<p align="center">
+  <img src="assets/operator-vault-logo.png" alt="The Operator Vault" width="200">
+</p>
 
-A Claude Code skill that migrates your entire OpenClaw workspace into a fully functional Claude Code project.
+<h1 align="center">Migrate OpenClaw to Claude Code</h1>
+
+<p align="center">
+  A Claude Code skill that migrates your entire OpenClaw workspace into a fully functional Claude Code project.
+</p>
+
+---
 
 If you've been running OpenClaw and want to switch to Claude Code, this skill handles the full migration. It scans your OpenClaw directory, shows you a preview of what will happen, and executes on your confirmation.
 
@@ -73,6 +81,27 @@ Your Claude Code project will have:
 - **Multi-agent routing** - you invoke agent skills directly instead
 - **Soul auto-injection** - personality is on-demand, read it when you need it
 
-## Built by
+---
 
-[The Operator Vault](https://theoperatorvault.io/) - Learn AI automation with Claude Code and OpenClaw.
+## About the Author
+
+**Kevin Jeppesen** - Founder of [The Operator Vault](https://theoperatorvault.io/) and [Ascendily](https://ascendily.com).
+
+7+ years in SEO and DTC eCommerce. Built Ascendily into a performance SEO agency managing $67M+ in revenue for clients. Now building The Operator Vault to teach founders, creators, and solopreneurs how to automate their businesses with AI agents using Claude Code and OpenClaw.
+
+The Operator Vault community has 300+ members learning to build real automations. Free courses, weekly live calls, shared workflows, and direct help when you get stuck.
+
+### Connect
+
+- [YouTube](https://www.youtube.com/@kevin-jeppesen)
+- [X / Twitter](https://x.com/seo_ecom)
+- [LinkedIn](https://www.linkedin.com/in/kevin-jeppesen/)
+- [Instagram](https://www.instagram.com/kevin_jeppesen/)
+- [Threads](https://www.threads.net/@kevin_jeppesen)
+- [Facebook](https://www.facebook.com/kevinjeppesen/)
+
+### Learn more
+
+- [The Operator Vault](https://theoperatorvault.io/) - Free courses and guides
+- [Join the Community](https://www.skool.com/operator-vault) - Skool community for AI operators
+- [Ascendily](https://ascendily.com) - DTC eCommerce SEO agency
